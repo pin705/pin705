@@ -1,30 +1,35 @@
 <img src="header.svg" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&lines=TypeScript+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Svelte+%C2%B7+Node.js;Building+browser+games+%26+AI-agent+tools;Hanoi%2C+Vietnam;Cultivating+immortality%2C+one+commit+at+a+time+%E2%9C%A6" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=44&lines=%3E+booting+pin705.exe+...;class%3A+full-stack+developer;main+quest%3A+xianxiu-rok;respawn+point%3A+hanoi%2C+vietnam;vibe+coding+in+progress+..." alt="typing" />
 </div>
 
-## 🧭 About
+## 🎮 PLAYER CARD
 
-- 🔭 Building **[xianxiu-rok](https://github.com/pin705/xianxiu-rok)** — a browser-based xianxia cultivation strategy game: found a sect, race for spirit veins, survive tribulations, ascend. Fastify + PostgreSQL authoritative server, Svelte 5 + PixiJS client, PWA.
-- 🎨 Building **[gesso-studio](https://github.com/pin705/gesso-studio)** — a local-first game art studio where your AI agent is the artist: MCP tools, a game-art knowledge base, no image API needed.
-- 💼 Full-stack developer in the Shopify ecosystem at **GemPages**.
-- 📍 Hanoi, Vietnam 🇻🇳
-- ⚡ Into local-first software, AI-agent tooling, and turning ideas into small sharp products.
-
-## 🚀 Featured projects
-
-| Project | What it is |
+| | |
 | --- | --- |
-| **[xianxiu-rok](https://github.com/pin705/xianxiu-rok)** | ⚔️ Browser-based cultivation (xianxia) strategy game — 修仙策略游戏 |
-| **[gesso-studio](https://github.com/pin705/gesso-studio)** | 🎨 Local-first game art studio — your AI agent is the artist |
-| **[extypo](https://github.com/pin705/extypo)** | 🧬 Nuxt 4 SaaS that extracts a full design system (colors, typography, spacing) from any website URL |
-| **[magic-pen](https://github.com/pin705/magic-pen)** | ✍️ AI-powered writing assistant, built on Nuxt |
-| **[open-pass](https://github.com/pin705/open-pass)** | 🔐 Local-first password manager with a macOS-style UI |
-| **[Heo-Chi-Tieu](https://github.com/pin705/Heo-Chi-Tieu)** | 🐷 Expense-tracking Zalo MiniApp |
-| **[cf-scraper-bypass](https://github.com/pin705/cf-scraper-bypass)** | 🛡️ Fetch Cloudflare clearance cookies from challenge-protected sites |
+| 🧙 **CLASS** | Full-stack TypeScript Dev |
+| 🏰 **GUILD** | [GemPages](https://www.gempages.net) — Shopify ecosystem |
+| 🗺️ **MAP** | Hanoi, Vietnam 🇻🇳 |
+| ⚔️ **MAIN QUEST** | [xianxiu-rok](https://github.com/pin705/xianxiu-rok) — browser-based xianxia cultivation strategy game: found a sect, race for spirit veins, survive tribulations, ascend. Fastify + PostgreSQL authoritative server · Svelte 5 + PixiJS client · PWA |
+| 🎨 **SIDE QUEST** | [gesso-studio](https://github.com/pin705/gesso-studio) — local-first game art studio where your AI agent is the artist: MCP tools, game-art knowledge base, no image API needed |
+| 🧪 **BUFFS** | local-first software · AI-agent tooling · small sharp products |
 
-## 🧰 Toolbox
+> 🧙 **Elder Dev**: *"Cultivate immortality, one commit at a time, young disciple."*
+
+## 🗡️ QUEST LOG
+
+| QUEST | STATUS |
+| --- | --- |
+| ⚔️ [**xianxiu-rok**](https://github.com/pin705/xianxiu-rok) — browser xianxia strategy game, 修仙策略游戏 | 🔥 grinding |
+| 🎨 [**gesso-studio**](https://github.com/pin705/gesso-studio) — your AI agent paints the game assets | 🔥 grinding |
+| 🧬 [**extypo**](https://github.com/pin705/extypo) — extract a full design system (colors, typography, spacing) from any URL | ✅ shipped |
+| ✍️ [**magic-pen**](https://github.com/pin705/magic-pen) — AI-powered writing assistant, built on Nuxt | ✅ shipped |
+| 🔐 [**open-pass**](https://github.com/pin705/open-pass) — local-first password manager with macOS-style UI | ✅ shipped |
+| 🐷 [**Heo-Chi-Tieu**](https://github.com/pin705/Heo-Chi-Tieu) — expense-tracking Zalo MiniApp | ✅ shipped |
+| 🛡️ [**cf-scraper-bypass**](https://github.com/pin705/cf-scraper-bypass) — fetch Cloudflare clearance cookies from protected sites | ✅ shipped |
+
+## 🎒 INVENTORY
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -42,7 +47,7 @@
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
 </p>
 
-## 📊 Stats
+## 📊 STATS
 
 <div align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pin705&theme=tokyonight" alt="GitHub stats" />
@@ -52,8 +57,8 @@
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pin705&theme=tokyonight" alt="Profile details" />
 </div>
 
-## 🤝 Say hi
+## 🕹️ JOIN MY PARTY
 
-💬 Open to collaborating on games, AI-agent tooling, and open-source — find me right here on GitHub.
+💬 Open to quests in games, AI-agent tooling, and open-source — find me right here on GitHub.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" />
+<img src="footer.svg" width="100%" />
