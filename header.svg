@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="240" viewBox="0 0 1440 240" fill="none" role="img">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1440" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1b26"/>
+      <stop offset="0.55" stop-color="#565f89"/>
+      <stop offset="1" stop-color="#7aa2f7"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0 H1440 V128 C1020 205 420 45 0 150 Z" fill="url(#g)" opacity="0.5"/>
+  <path d="M0 0 H1440 V158 C960 228 480 62 0 176 Z" fill="url(#g)"/>
+  <text x="720" y="76" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#e6e6f0">Hi, I'm Pin</text>
+  <text x="720" y="118" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, sans-serif" font-size="20" fill="#c8d3f5">Full-stack TypeScript dev · games &amp; AI agent tools · Hanoi, Vietnam</text>
+</svg>
