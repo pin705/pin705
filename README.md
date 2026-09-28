@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Hi%2C%20I%27m%20Pin&fontSize=54&fontColor=e6e6e6&fontAlignY=34&desc=Full-stack%20TypeScript%20dev%20%C2%B7%20games%20%26%20AI%20tools&descSize=18&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=Pin%20%C2%B7%20Full-stack%20TypeScript%20dev&fontSize=54&fontColor=e6e6e6&fontAlignY=42&desc=games%20%26%20AI%20agent%20tools%20%C2%B7%20Hanoi%2C%20Vietnam&descSize=17&descAlignY=58" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&lines=TypeScript+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Svelte+%C2%B7+Node.js;Building+browser+games+%26+AI-agent+tools;Hanoi%2C+Vietnam;Cultivating+immortality%2C+one+commit+at+a+time+%E2%9C%A6" alt="typing" />
